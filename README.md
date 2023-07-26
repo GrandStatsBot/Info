@@ -1,4 +1,5 @@
 # Grand Stats is a discord bot that guide and assist you in your journey by giving you advice about how to obtain, find or locate anything you need.
+
 ## Commands
 - /Wiki
 - /Build
