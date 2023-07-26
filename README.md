@@ -1,5 +1,4 @@
 # Grand Stats is a discord bot that guide and assist you in your journey by giving you advice about how to obtain, find or locate anything you need.
-
 ## Commands
 - /Wiki
 - /Build
@@ -11,10 +10,8 @@
 - /ServerInfo
 ### TODO List
 - Soon
-
 # Terms of Service
 ## By using GrandStats, you agree to the following terms of service:
-
 - GrandStats is provided as-is, and is not guaranteed to be available at all times.
 - GrandStats is not responsible for any damages caused by its use.
 - GrandStats may be updated at any time, and may change or remove features without notice.
