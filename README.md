@@ -9,5 +9,6 @@
 # Privacy Policy
 ## Information we store in our database is limited to storing
 - UserId and Username to identify and remember you.
+- ServerId to identify and remember the server for the leaderboard.
 - Text Input you put in certain commands, specifically: /build.
 https://github.com/GrandStatsBot/Terms
