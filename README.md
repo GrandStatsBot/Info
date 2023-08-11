@@ -1,15 +1,4 @@
 # GrandStats is a discord bot that guide and assist you in your journey by giving you advice about how to obtain, find or locate anything you need.
-## Commands
-- /Wiki
-- /Build
-- /FindBuild
-- /Stats
-- /Check
-- /Vote
-- /LeaderBoard
-- /ServerInfo
-### TODO List
-- Soon
 # Terms of Service
 ## By using GrandStats, you agree to the following terms of service:
 - GrandStats is provided as-is, and is not guaranteed to be available at all times.
@@ -20,5 +9,5 @@
 # Privacy Policy
 ## Information we store in our database is limited to storing
 - UserId and Username to identify and remember you.
-- ServerId to identify and remember the server for the leaderboard.
-- Text Input you put in certain commands, specifically: /build, /stats.
+- Text Input you put in certain commands, specifically: /build.
+https://github.com/GrandStatsBot/Terms
